@@ -1,0 +1,19 @@
+form {
+  max-width: 50vw;  // Adjust as needed
+  margin: auto;
+
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 16px;
+
+    input {
+      width: 100%;
+    }
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+  }
+}

@@ -1,0 +1,22 @@
+/* users-table.component.scss */
+.table-container {
+  margin-top: 20px;
+}
+
+.mat-table {
+  width: 100%;
+}
+
+.mat-cell,
+.mat-header-cell {
+  text-align: center;
+  padding: 10px;
+}
+
+.mat-header-row {
+  background-color: #eeeeee;
+}
+
+.mat-row:nth-child(even) {
+  background-color: #f3f3f3;
+}

@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #007bff; // Customize the background color
+  color: #fff; // Customize the text color
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+}
